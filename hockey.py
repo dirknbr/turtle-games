@@ -1,5 +1,5 @@
 
-# hockey game, Michael and Dirk Nachbar
+# hockey game, M and Dirk Nachbar
 
 import turtle
 import random
