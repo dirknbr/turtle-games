@@ -1,5 +1,5 @@
 
-# baseball game, Dirk and Michael Nachbar
+# baseball game, Dirk and M Nachbar
 
 import turtle
 import random
